@@ -1,0 +1,14 @@
+.links--component {
+  background-color: #101012;
+  width: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0 0 10px 10px;
+}
+.links--component i {
+  font-size: 30px;
+  padding: 15px 10px;
+  color: #fff;
+  opacity: 50%;
+}/*# sourceMappingURL=links.css.map */

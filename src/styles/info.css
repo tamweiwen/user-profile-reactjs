@@ -1,0 +1,61 @@
+.info--component {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#infophoto {
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 300px;
+  width: 300px;
+  border-radius: 10px 10px 0 0;
+}
+
+.name-info {
+  font-size: 22px;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.position-info {
+  font-size: 14px;
+  font-weight: 400;
+  color: #b98e88;
+  margin-top: 3px;
+}
+
+.website-info {
+  font-size: 12px;
+  font-weight: 300;
+  margin-top: 10px;
+  color: #fff;
+  opacity: 80%;
+}
+
+.btns-info {
+  margin-top: 15px;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 15px;
+}
+.btns-info .email-btn {
+  color: #000;
+  background-color: #fff;
+  width: 110px;
+  text-align: center;
+  padding: 7px 0;
+  border-radius: 5px;
+}
+.btns-info .linkedin-btn {
+  color: #fff;
+  background-color: #4385dc;
+  width: 110px;
+  text-align: center;
+  padding: 7px 0;
+  border-radius: 5px;
+}
+.btns-info i {
+  margin-right: 5px;
+}/*# sourceMappingURL=info.css.map */
