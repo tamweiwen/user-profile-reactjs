@@ -40,7 +40,7 @@
   justify-content: space-between;
   font-size: 15px;
 }
-.btns-info:hover {
+.btns-info > p:hover {
   cursor: pointer;
 }
 .btns-info .email-btn {
