@@ -8,7 +8,10 @@
 }
 .links--component i {
   font-size: 30px;
-  padding: 15px 10px;
+  margin: 15px 10px;
   color: #fff;
   opacity: 50%;
+}
+.links--component i:hover {
+  cursor: pointer;
 }/*# sourceMappingURL=links.css.map */
